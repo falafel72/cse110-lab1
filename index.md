@@ -7,6 +7,7 @@
 # Introduction
 ![Picture of me](./images/me.jpg)
 [Link to picture of me](./images/me.jpg)
+
 Hello! I'm Kyle, a third year Computer Engineering major in Sixth college. 
 
 > __"I needed a quote but I couldn't think of one."__ - *Me, 2021*
@@ -52,6 +53,6 @@ main =  do
 My current hobbies are reading, playing guitar, and listening to music, though there are a lot more things I want to get into. Here's part of my bucket list ~~that I just made up~~: 
  - [x] Pick up guitar
  - [x] Pick up bass guitar
- - [] Go scuba diving in San Diego 
- - [] Pick up the saxophone
- - [] Go to a Vulpeck concert
+ - [ ] Go scuba diving in San Diego 
+ - [ ] Pick up the saxophone
+ - [ ] Go to a Vulpeck concert
